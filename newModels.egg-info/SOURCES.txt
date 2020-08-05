@@ -1,0 +1,7 @@
+setup.py
+models/__init__.py
+models/person.py
+newModels.egg-info/PKG-INFO
+newModels.egg-info/SOURCES.txt
+newModels.egg-info/dependency_links.txt
+newModels.egg-info/top_level.txt
