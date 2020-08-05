@@ -1,5 +1,7 @@
+README.md
 setup.py
 models/__init__.py
+models/grade.py
 models/person.py
 newModels.egg-info/PKG-INFO
 newModels.egg-info/SOURCES.txt
